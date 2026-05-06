@@ -34,7 +34,7 @@ Format: `<type>: <kurze Beschreibung>` (lowercase, kein Punkt am Ende)
 | `docs` | nur Dokumentation |
 | `chore` | Build, Abhängigkeiten, Konfiguration |
 
-## Authoren
+## Autoren
 
 - Luca Pallagi
 - Laurens Alexander Hertzer
